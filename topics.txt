@@ -1,0 +1,6 @@
+headings
+paragraph
+links
+img
+lists
+table
